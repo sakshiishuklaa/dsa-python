@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakshiishuklaa/dsa-python/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/sakshiishuklaa/dsa-python/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
