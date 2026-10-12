@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/sakshiishuklaa/dsa-python/tree/master/0577-employee-bonus) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/sakshiishuklaa/dsa-python/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
