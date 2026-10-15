@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/sakshiishuklaa/dsa-python/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshiishuklaa/dsa-python/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sakshiishuklaa/dsa-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/sakshiishuklaa/dsa-python/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshiishuklaa/dsa-python/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
