@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sakshiishuklaa/dsa-python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sakshiishuklaa/dsa-python/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/sakshiishuklaa/dsa-python/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sakshiishuklaa/dsa-python/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/sakshiishuklaa/dsa-python/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sakshiishuklaa/dsa-python/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshiishuklaa/dsa-python/tree/master/0374-guess-number-higher-or-lower) |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/sakshiishuklaa/dsa-python/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshiishuklaa/dsa-python/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sakshiishuklaa/dsa-python/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
