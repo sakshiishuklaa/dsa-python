@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshiishuklaa/dsa-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/sakshiishuklaa/dsa-python/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sakshiishuklaa/dsa-python/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sakshiishuklaa/dsa-python/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sakshiishuklaa/dsa-python/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sakshiishuklaa/dsa-python/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
