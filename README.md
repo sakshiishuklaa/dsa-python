@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/sakshiishuklaa/dsa-python/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sakshiishuklaa/dsa-python/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sakshiishuklaa/dsa-python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakshiishuklaa/dsa-python/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/sakshiishuklaa/dsa-python/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sakshiishuklaa/dsa-python/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sakshiishuklaa/dsa-python/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
