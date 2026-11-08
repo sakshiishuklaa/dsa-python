@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/sakshiishuklaa/dsa-python/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshiishuklaa/dsa-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sakshiishuklaa/dsa-python/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshiishuklaa/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sakshiishuklaa/dsa-python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sakshiishuklaa/dsa-python/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sakshiishuklaa/dsa-python/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sakshiishuklaa/dsa-python/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshiishuklaa/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sakshiishuklaa/dsa-python/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sakshiishuklaa/dsa-python/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sakshiishuklaa/dsa-python/tree/master/0374-guess-number-higher-or-lower) |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sakshiishuklaa/dsa-python/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshiishuklaa/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
