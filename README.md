@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sakshiishuklaa/dsa-python/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sakshiishuklaa/dsa-python/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sakshiishuklaa/dsa-python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sakshiishuklaa/dsa-python/tree/master/0125-valid-palindrome) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sakshiishuklaa/dsa-python/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sakshiishuklaa/dsa-python/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshiishuklaa/dsa-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sakshiishuklaa/dsa-python/tree/master/0136-single-number) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0125-valid-palindrome](https://github.com/sakshiishuklaa/dsa-python/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshiishuklaa/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sakshiishuklaa/dsa-python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
