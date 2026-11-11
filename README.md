@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sakshiishuklaa/dsa-python/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sakshiishuklaa/dsa-python/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sakshiishuklaa/dsa-python/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshiishuklaa/dsa-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,10 +105,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sakshiishuklaa/dsa-python/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/sakshiishuklaa/dsa-python/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshiishuklaa/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakshiishuklaa/dsa-python/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sakshiishuklaa/dsa-python/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
